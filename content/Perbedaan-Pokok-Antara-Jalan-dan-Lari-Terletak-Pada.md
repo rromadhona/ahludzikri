@@ -2,7 +2,7 @@
 title: "Perbedaan Pokok Antara Jalan Dan Lari Terletak Pada"
 date: 2023-09-05T09:51:26+07:00
 draft: false
-image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLfgog1vuyaOajSOgMLCFXVQFSn1e1VQPu80I849grqQTfDOUQMjhiM3YHVSL9nM4M1fJ6gcimZP7Ei5JLnr4n16ZloidFeasP9RaDT7Td58zKc73J-ObbtKJHLPF_drtfxVl1txJ8f93C_a68PP5pV0VVbOznJFdWXnllf_6xSAFM8KV4X7ka8WAg1pM/s720/perbedaan-antara-jalan-dengan-lari-terletak-pada.webp'
+image: 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7RSUKrS3tqFFudMGk_2A0xM-FcdNko-0-6hx_8BMdHg4ycfRwfZnTKXXLt08gMK8Rs20MjZgQrfop43KEGI5jLpjPGa3yW5nEbVjcuE8EC73Rd7dL2R3wYi9cBOsEZ_xEGQbsI6T0y6pFXDjCFA9y0_wzcDnqDLWnE9jBl5Px414jluEei3Lk0872jEA/s1600/perbedaan-antara-jalan-dengan-lari-terletak-pada.webp'
 description: "Perbedaan antara jalan dengan lari terletak pada"
 keywords:
 - perbedaan jalan dengan lari terletak pada
@@ -15,9 +15,9 @@ tags:
 - Soal
 ---
 
-## Perbedaan Antara Berjalan dan Berlari: Apa yang Harus Anda Ketahui, Ini jawabannya
+**D. Saat Jalan Kaki Selalu Berhubungan dengan Tanah**,  Ini jawabannya.
 
-**D. Saat Jalan Kaki Selalu Berhubungan dengan Tanah**
+## Perbedaan Antara Berjalan dan Berlari: Apa yang Harus Anda Ketahui
 
 Dalam kehidupan sehari-hari, kita sering melihat orang berjalan dan berlari tanpa memikirkan perbedaan mendasar di antara keduanya. Namun, sebenarnya ada perbedaan yang signifikan antara berjalan dan berlari, baik dari segi mekanik maupun dampaknya pada tubuh kita. Dalam artikel ini, kita akan menjelajahi perbedaan-perbedaan tersebut.
 
