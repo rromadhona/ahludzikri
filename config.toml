@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'http://ahludzikri.pages.dev'
 languageCode = 'en-us'
 title = 'Ahlu Dzikri'
 theme = 'blog'
