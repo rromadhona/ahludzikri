@@ -31,5 +31,19 @@
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{ end -}}
   {{ if isset .Params "date" }}<meta property="article:published_time" content="{{ (time .Date).Format "2006-01-02T15:04:05Z" }}">{{ end }}
-
+  <script>
+  /* Lazy Load Ads on Scroll by igniel.com */
+  let lzAd = false;
+  window.addEventListener('scroll', () => {
+    (0 != document.documentElement.scrollTop && false === lzAd || 0 != document.body.scrollTop && !1 === lzAd) && (!function(){
+      /* Lazy Load Ads By igniel.com */
+      let ignLzPub = '6640608233758021',
+      ignLzAd = document.createElement('script');
+      ignLzAd.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-' + ignLzPub;
+      ignLzAd.async = true;
+      ignLzAd.setAttribute('crossorigin', 'anonymous');
+      document.head.appendChild(ignLzAd);
+    }(), lzAd = true);
+  }, true);
+  </script>
 </head>
